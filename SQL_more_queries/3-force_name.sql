@@ -1,6 +1,6 @@
 -- creates the table force_name on your MySQL server.
---If the table force_name already exists, your script should not fail
+-- If the table force_name already exists, your script should not fail
 CREATE TABLE IF NOT EXISTS force_name(
-	id INT
-	name VARCHAR(256)can’t be null
-
+	id INT,i
+	name VARCHAR(256)NOT NULL
+)
