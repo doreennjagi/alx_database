@@ -1,5 +1,4 @@
 
--- delete the specified database
-DELETE DATABASES 2-remove_database.sql;
-
+-- drop the specified database
+DROP DATABASE IF NOT EXISTS hbtn_0c_0;
 
